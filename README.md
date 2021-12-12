@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pamodi123
-- 👀 I’m interested in puppies
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning school
 - 💞️ I’m looking to collaborate on html and css
 - 📫 How to reach me via gmail
